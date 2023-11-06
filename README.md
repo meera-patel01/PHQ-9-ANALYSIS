@@ -2,8 +2,10 @@
 # PHQ-9 ANALYSIS - Using PHQ-9 to Analyze Seasonal Depression
 ----------------------------------------
 
-GITHUB DIRECT CODE LINK (PHQ-9 ANALYSIS): https://github.com/meera-patel01/Project-1.git
-DATA SET DIRECT CODE LINK (PHQ-9 Depression Assessment): https://zenodo.org/records/3384860#.Y8OrbdJBwUE
+GITHUB DIRECT CODE LINK (PHQ-9 ANALYSIS): 
+https://github.com/meera-patel01/Project-1.git
+DATA SET DIRECT CODE LINK (PHQ-9 Depression Assessment): 
+https://zenodo.org/records/3384860#.Y8OrbdJBwUE
 https://www.kaggle.com/datasets/thedevastator/phq-9-depression-assessment
 
 Citation : 
