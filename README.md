@@ -1,7 +1,6 @@
 # Project 1
 # PHQ-9 ANALYSIS - Using PHQ-9 to Analyze Seasonal Depression
 ----------------------------------------
-
 GITHUB DIRECT CODE LINK (PHQ-9 ANALYSIS): 
 https://github.com/meera-patel01/Project-1.git
 DATA SET DIRECT CODE LINK (PHQ-9 Depression Assessment): 
