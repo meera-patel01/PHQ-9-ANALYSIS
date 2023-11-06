@@ -1,22 +1,23 @@
 # Project 1
 # PHQ-9 ANALYSIS - Using PHQ-9 to Analyze Seasonal Depression
 ----------------------------------------
-GITHUB DIRECT CODE LINK (PHQ-9 ANALYSIS): 
-https://github.com/meera-patel01/Project-1.git
+GITHUB DIRECT CODE LINK (PHQ-9 ANALYSIS): https://github.com/meera-patel01/Project-1.git
+
 DATA SET DIRECT CODE LINK (PHQ-9 Depression Assessment): 
 https://zenodo.org/records/3384860#.Y8OrbdJBwUE
 https://www.kaggle.com/datasets/thedevastator/phq-9-depression-assessment
 
 Citation : 
- -Seasonal affective disorder (SAD): 
-    https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad/about-sad/
- -Patient Health Questionnaire-9 (PHQ-9): 
-    https://med.stanford.edu/fastlab/research/imapp/msrs/_jcr_content/main/accordion/accordion_content3/download_256324296/file.res/PHQ9%20id%20date%2008.03.pdf
- -Association between Vitamin D Supplementation and Mental Health in Healthy Adults: A Systematic Review:
-    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8584834/
- -Vitamin D deficiency during winter months among an adult, predominantly urban, population in Northern Poland: 
-    https://pubmed.ncbi.nlm.nih.gov/24802733/
+ -Seasonal affective disorder (SAD): https://www.mind.org.uk/information-support/types-of-mental-health-problems/seasonal-affective-disorder-sad/about-sad/
+ 
+ -Patient Health Questionnaire-9 (PHQ-9): https://med.stanford.edu/fastlab/research/imapp/msrs/_jcr_content/main/accordion/accordion_content3/download_256324296/file.res/PHQ9%20id%20date%2008.03.pdf
+ 
+ -Association between Vitamin D Supplementation and Mental Health in Healthy Adults: A Systematic Review: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8584834/
+
+ -Vitamin D deficiency during winter months among an adult, predominantly urban, population in Northern Poland: https://pubmed.ncbi.nlm.nih.gov/24802733/
+
 ## HYPOTHESIS - Association with Seasonal Changes:
+----------------------------------------
 	Individuals have higher PHQ-9 scores, indicating more severe depressive symptoms, during the winter months compared to the summer months.
 
 ### BACKGROUND/ANALYSIS
@@ -39,5 +40,6 @@ When taken the paticipant gender/sexuality into consideration, male participants
 Lastly, the time of day the assessment was taken is put into consideration. For this sample population with the assumption of standard working/active hours: waking up in the morning, working and  ending their day in the evening, people are to be more depressed at the end of the day due to the inherent stress exprerience during the active hours. The visual resulted from the analysis by the time of day and by the season are in tune to the current hypothesis. As the day ends, people are shown to be more stressed in the evening than the morning time. The winter time have the highest percentage of severe depression  and the summer have lowest percentage of severe depression regardless of which time of the day it was. 
 
 #### Conclusion
+----------------------------------------
 
 This dataset show to be true with the the current hypothesis. Even though the differences in the statistic numbers might seem small, this can be explained due to the small sample size and short testing period. The consistent trend of higher depressive severity in the winter months compare to the summer months is seen thoughout the data analysis. Gender identity and time period assessment was taken also played an important part in the depression fluctuation. Since there are many complex factors that could also influence mental health, a larger population size will allow for a more significant diffencences in the statistic. 
